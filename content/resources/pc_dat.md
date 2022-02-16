@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Student presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-83x-space-systems-engineering-spring-2002-spring-2003/61414f2d8a837d9bd573a7b9c0f130c8_pc_dat.pdf
+file: /media/courses/16-83x-space-systems-engineering-spring-2002-spring-2003/61414f2d8a837d9bd573a7b9c0f130c8_pc_dat.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: pc_dat.pdf
 uid: 61414f2d-8a83-7d9b-d573-a7b9c0f130c8
