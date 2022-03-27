@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3f6a9c94-8530-e739-db93-f5d14dc45ea2
 resourcetype: Document
 title: design_team_pres.pdf
 uid: bc1d39fe-edc3-3b15-399d-1784926e1176

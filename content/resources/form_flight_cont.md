@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3f6a9c94-8530-e739-db93-f5d14dc45ea2
 resourcetype: Document
 title: form_flight_cont.pdf
 uid: f36ac5cd-49a5-c598-0721-d5897c125293

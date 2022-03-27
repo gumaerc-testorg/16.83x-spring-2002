@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 659a2b64-f421-582a-c946-1d654c0a29b1
 resourcetype: Document
 title: opsman.pdf
 uid: 9539602e-9420-ee61-1980-f74c2cecf8e9

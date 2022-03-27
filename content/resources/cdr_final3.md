@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 659a2b64-f421-582a-c946-1d654c0a29b1
 resourcetype: Document
 title: cdr_final3.pdf
 uid: 3202cc5a-b15b-3293-6af5-6dc5b6b41a8a

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3f6a9c94-8530-e739-db93-f5d14dc45ea2
 resourcetype: Document
 title: designdoc.pdf
 uid: 50b21afe-dacf-8576-02a6-79d7820251e9

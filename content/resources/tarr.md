@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 659a2b64-f421-582a-c946-1d654c0a29b1
 resourcetype: Document
 title: tarr.pdf
 uid: b3d1d998-3b33-0d33-0418-5b9cedf7fcdc

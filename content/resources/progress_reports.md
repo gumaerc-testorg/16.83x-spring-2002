@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3f6a9c94-8530-e739-db93-f5d14dc45ea2
 resourcetype: Document
 title: progress_reports.pdf
 uid: eeb2db60-00b6-3eaa-9371-5bc9eb5863b8

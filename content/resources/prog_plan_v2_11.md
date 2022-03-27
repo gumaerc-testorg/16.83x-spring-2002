@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 02425a85-b937-2536-392b-ab9cb135740b
 resourcetype: Document
 title: prog_plan_v2_11.pdf
 uid: ec828fbf-9c1b-3438-c54d-733462acf81b
