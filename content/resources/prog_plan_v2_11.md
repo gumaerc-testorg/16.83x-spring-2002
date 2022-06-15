@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 16.83X Three-Semester Syllabus and Program Plan.
-file: /media/courses/16-83x-space-systems-engineering-spring-2002-spring-2003/ec828fbf9c1b3438c54d733462acf81b_prog_plan_v2_11.pdf
+file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/ec828fbf9c1b3438c54d733462acf81b_prog_plan_v2_11.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: prog_plan_v2_11.pdf
 uid: ec828fbf-9c1b-3438-c54d-733462acf81b
 ---
+16.83X Three-Semester Syllabus and Program Plan.
+
