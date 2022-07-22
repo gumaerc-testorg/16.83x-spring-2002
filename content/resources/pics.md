@@ -6,6 +6,7 @@ file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/235c5d07
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pics.pdf
 uid: 235c5d07-468d-4394-2c43-78093d5dbb15
 ---
 This file contains a collection of photographs of the EMFF test bed under construction and in testing.
-

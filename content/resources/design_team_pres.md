@@ -5,6 +5,7 @@ file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/bc1d39fe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: design_team_pres.pdf
 uid: bc1d39fe-edc3-3b15-399d-1784926e1176
 ---
 These slides contain suggestions for making a successful group presentation.
-

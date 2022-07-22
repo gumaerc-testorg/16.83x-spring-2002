@@ -5,6 +5,7 @@ file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/50b21afe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: designdoc.pdf
 uid: 50b21afe-dacf-8576-02a6-79d7820251e9
 ---
 These slides contain suggestions for completing the class project.
-

@@ -5,6 +5,7 @@ file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/3f9edea0
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection

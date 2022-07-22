@@ -5,6 +5,7 @@ file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/9c99c65f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: smt.pdf
 uid: 9c99c65f-fa2a-abdb-7f7c-4feee4e86942
 ---
 Slides for lecture presentation.
-

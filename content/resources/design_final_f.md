@@ -5,6 +5,7 @@ file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/e94649a9
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: design_final_f.pdf
 uid: e94649a9-fd3a-4d06-be31-4ddd8c4641f6
 ---
 Section F from the Design Appendix to Project EMFFORCE.
-

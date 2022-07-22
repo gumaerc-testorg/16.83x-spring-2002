@@ -6,6 +6,7 @@ file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/aa186f05
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: reqs_doc_v51.pdf
 uid: aa186f05-272a-23fa-4f49-e48ad8eefc17
 ---
 This student project document is courtesy of Maggie Sullivan, Leah Soffer, and Oscar Murillo. Used with permission.
-
