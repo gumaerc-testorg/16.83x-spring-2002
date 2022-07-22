@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 02425a85-b937-2536-392b-ab9cb135740b
 ---
@@ -32,4 +35,4 @@ Space Systems Engineering (16.83X) is a complex sequence of three courses.  The
 
 The program plan below contains some references to course numbers 16.684, 16.685, 16.686, and 16.68x.  These numbers served as temporary course numbers for 16.83X.  This course sequence has now passed the experimental phase and has adopted its permanent course numbers of 16.83, 16.831, 16.832 (also known collectively as 16.83X).
 
-16.83X Three-Semester Syllabus and Program Plan ([PDF]({{< baseurl >}}/resources/prog_plan_v2_11))
+16.83X Three-Semester Syllabus and Program Plan ({{% resource_link ec828fbf-9c1b-3438-c54d-733462acf81b "PDF" %}})
