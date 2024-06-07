@@ -2,6 +2,7 @@
 content_type: resource
 description: These slides contain suggestions on making a successful presentation.
 file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/1074476566b372c84b64e5378ccbfee2_badslides.pdf
+file_size: 91530
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
