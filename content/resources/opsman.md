@@ -2,6 +2,7 @@
 content_type: resource
 description: Operations Manual for Project EMFFORCE.
 file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/9539602e9420ee611980f74c2cecf8e9_opsman.pdf
+file_size: 767465
 file_type: application/pdf
 learning_resource_types:
 - Projects

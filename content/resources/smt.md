@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for lecture presentation.
 file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/9c99c65ffa2aabdb7f7c4feee4e86942_smt.pdf
+file_size: 189825
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

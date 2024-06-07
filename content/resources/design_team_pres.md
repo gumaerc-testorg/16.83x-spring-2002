@@ -2,6 +2,7 @@
 content_type: resource
 description: These slides contain suggestions for making a successful group presentation.
 file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/bc1d39feedc33b15399d1784926e1176_design_team_pres.pdf
+file_size: 72286
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
