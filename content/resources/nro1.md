@@ -4,6 +4,7 @@ description: National Reconnaissance Office (NRO) Progress Report. Prof. Miller,
   course instructor, sent regular progress updates to the National Reconnaissance
   Office (NRO), a course sponsor.
 file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/2a80d0feba6e091d96dac07863e5f3a2_nro1.pdf
+file_size: 136980
 file_type: application/pdf
 learning_resource_types:
 - Projects

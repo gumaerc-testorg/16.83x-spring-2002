@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/f36ac5cd49a5c5980721d5897c125293_form_flight_cont.pdf
+file_size: 617650
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

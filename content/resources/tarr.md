@@ -2,6 +2,7 @@
 content_type: resource
 description: Student presentation.
 file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/b3d1d9983b330d3304185b9cedf7fcdc_tarr.pdf
+file_size: 752265
 file_type: application/pdf
 learning_resource_types:
 - Projects

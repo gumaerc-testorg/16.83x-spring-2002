@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/3f9edea0dd66bad4599040966c838997_pc_req.pdf
+file_size: 200417
 file_type: application/pdf
 learning_resource_types:
 - Projects
