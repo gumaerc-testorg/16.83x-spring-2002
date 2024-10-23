@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Section I from the Design Appendix to Project EMFFORCE.
-file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/498e824064a7ff1f9805dbf334d0bc6c_design_final_i.pdf
+file: /ol-ocw-studio-app/courses/16-83x-space-systems-engineering-spring-2002-spring-2003/498e824064a7ff1f9805dbf334d0bc6c_design_final_i.pdf
 file_size: 76257
 file_type: application/pdf
 learning_resource_types:
