@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Critical Design Review (student presentation).
-file: /ol-ocw-studio-app/courses/16-83x-space-systems-engineering-spring-2002-spring-2003/3202cc5ab15b32936af56dc5b6b41a8a_cdr_final3.pdf
+file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/3202cc5ab15b32936af56dc5b6b41a8a_cdr_final3.pdf
 file_size: 1614136
 file_type: application/pdf
 learning_resource_types:

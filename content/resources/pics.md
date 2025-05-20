@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains a collection of photographs of the EMFF test bed under
   construction and in testing.
-file: /ol-ocw-studio-app/courses/16-83x-space-systems-engineering-spring-2002-spring-2003/235c5d07468d43942c4378093d5dbb15_pics.pdf
+file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/235c5d07468d43942c4378093d5dbb15_pics.pdf
 file_size: 53433
 file_type: application/pdf
 learning_resource_types:
