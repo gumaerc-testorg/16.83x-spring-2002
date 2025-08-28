@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student presentation.
-file: /courses/16-83x-space-systems-engineering-spring-2002-spring-2003/61414f2d8a837d9bd573a7b9c0f130c8_pc_dat.pdf
+file: /ol-ocw-studio-app/courses/16-83x-space-systems-engineering-spring-2002-spring-2003/61414f2d8a837d9bd573a7b9c0f130c8_pc_dat.pdf
 file_size: 131404
 file_type: application/pdf
 learning_resource_types:
